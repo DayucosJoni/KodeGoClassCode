@@ -4,26 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="043cb217-69da-45e1-9644-5f630e12eb4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataStructure3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoggingKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MultidimensionArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PrintUniqueCharacters.kt" afterDir="false" />
+    <list default="true" id="043cb217-69da-45e1-9644-5f630e12eb4a" name="Changes" comment="Added Student.kt and Main.kt (class and WildCardSearch function)">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HackerRank/Sample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodego_class_samples/Date.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodego_class_samples/Function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodego_class_samples/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kodego_class_samples/dasdasd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetCode/ProductOfList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetCode/RomanNumerals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/leetCode/Triangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PrintUniqueCharacters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PrintUniqueCharacters.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +53,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DataStructure3Kt">
+  <component name="RunManager">
     <configuration name="DataStructure3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure3Kt" />
       <module name="KodeGoClass.main" />
@@ -77,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggingKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoggingKotlinKt" />
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeClass.MainKt" />
       <module name="KodeGoClass.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,10 +92,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.DataStructure3Kt" />
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MultidimensionArrayKt" />
         <item itemvalue="Kotlin.DataStructureKt" />
         <item itemvalue="Kotlin.PrintUniqueCharactersKt" />
-        <item itemvalue="Kotlin.LoggingKotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +108,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665745681336</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Student.kt and Main.kt (class and WildCardSearch function)">
+      <created>1667901037100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667901037100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Student.kt and Main.kt (class and WildCardSearch function)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Student.kt and Main.kt (class and WildCardSearch function)" />
   </component>
 </project>
