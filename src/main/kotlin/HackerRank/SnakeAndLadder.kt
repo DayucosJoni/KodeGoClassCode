@@ -49,5 +49,6 @@ class Board(var tiles: Int) {
 
     fun player1Position() {
 
+
     }
 }
